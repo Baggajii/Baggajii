@@ -1,80 +1,55 @@
-# 👋 Hi, I'm Ramandeep Bagga  
-### Cybersecurity Analyst | SOC | Pentesting | Digital Forensics | Bug Bounty  
-**Delhi/Noida – Open for Security Roles**
+🛠 I’m currently working on
 
----
+Vulnerability Assessment & Penetration Testing (VAPT)
 
-## 🚀 About Me  
-I’m an entry-level cybersecurity professional with hands-on experience in:  
-- Security Operations (SIEM, log analysis, incident response)  
-- Penetration Testing & Vulnerability Assessment  
-- Digital Forensics (Crime Branch Internship)  
-- Bug Bounty & Responsible Disclosure  
-- Python automation for security tasks  
+Web application security testing (OWASP Top 10)
 
-Focused on practical security, real-world problem solving, and continuous learning.  
+Hands-on labs using Kali Linux, Burp Suite, Nuclei, and Metasploit
 
----
+🤝 I’m looking to collaborate on
 
-## 🛡️ Core Skills  
-- **SOC & Monitoring:** Splunk, ELK, QRadar, OpenVAS, Suricata, Snort  
-- **Pentesting Tools:** Burp Suite, Nmap, Metasploit, Nessus  
-- **Web Security:** OWASP Top 10, IDOR, Auth Logic Testing, API Security  
-- **Forensics:** Chain-of-custody, metadata analysis, log correlation  
-- **Scripting:** Python (automation & recon scripts)  
-- **Frameworks:** MITRE ATT&CK, ISO 27001, NIST  
-- **Platforms:** TryHackMe, HackTheBox, Home SOC Lab  
+Bug bounty projects
 
----
+Open-source security tools
 
-## 🔍 Featured Projects  
-### 🔹 **GitHub Recon Tool (Detox Technologies Test Project)**  
-Python tool for detecting exposed sensitive data using GitHub API.  
-- Searches code for secrets, API keys, credentials  
-- Generates structured JSON report  
-- Supports custom keywords & PAT tokens  
-**Repo:** *(Add the link here)*
+Web security research & threat analysis
 
----
+🧠 I’m looking for help with
 
-### 🔹 SOC Home Lab (SIEM + IDS/IPS)  
-Built a personal SOC environment to practice log analysis, incident response, and threat detection.  
-- ELK stack monitoring  
-- Suricata alerts  
-- Security dashboards  
+Advanced exploitation techniques
 
----
+Real-world SOC workflows
 
-### 🔹 Web Application Security Testing  
-Custom scripts + manual VAPT on sample apps.  
-- Parameter tampering  
-- IDOR testing  
-- Auth bypass tests  
-- Reporting & remediation notes  
+Improving report writing for vulnerabilities
 
----
+🌱 I’m currently learning
 
-## 🏆 Achievements  
-- Crime Branch Internship: Assisted in cybercrime investigations & forensics  
-- Responsible Disclosure: Yoast SEO version disclosure via HackerOne  
-- Preparing for **(ISC)² Certified in Cybersecurity (CC)** – Jan 2026  
-- Active in bug bounty & CTF learning  
+Web application security & API security
 
----
+Linux, networking, and Python for security
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Baggajii&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Baggajii&layout=compact&theme=tokyonight)
+SOC analysis fundamentals & threat monitoring
 
----
+💬 Ask me about
 
-## 🌐 Connect With Me  
-- **Portfolio:** https://bagga.free.nf  
-- **LinkedIn:** https://linkedin.com/in/ramandeepbagga  
-- **Email:** ramandeep.bagga.cyber@gmail.com  
-- **Location:** Indore → Delhi/Noida (Relocating Soon)
+Cybersecurity basics & career roadmap
 
----
+Bug bounty practice
 
-### 🧩 Motto  
-**Keep learning. Keep breaking. Keep securing.**
+Kali Linux tools & web vulnerabilities
+
+⚡ Fun fact
+
+I enjoy breaking applications (ethically 😄) more than building them
+
+🌐 Socials:
+Discord Instagram LinkedIn email
+
+💻 Tech Stack:
+Python Windows Terminal PowerShell Canva Apache C++
+
+📊 GitHub Stats:
+
+
+
+
